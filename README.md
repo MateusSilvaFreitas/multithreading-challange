@@ -35,7 +35,6 @@ cd /multithreading-challange
 2. Execute o programa com o comando abaixo:
 
 ```bash
-# Opção 1: Rodar o arquivo principal
 go run main.go
 ```
 
